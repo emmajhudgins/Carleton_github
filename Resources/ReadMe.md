@@ -26,7 +26,7 @@ From the workshop:
 
 ![Infographic](https://github.com/emmajhudgins/Carleton_github/blob/main/Resources/github_infographic.png)
 
-[Slides](https://github.com/emmajhudgins/Carleton_github/blob/main/Resources/Project-based%20workflows%20with%20GitHub.pdf)
+[Slides](https://github.com/emmajhudgins/Carleton_github/blob/main/Resources/GitHub_presentation.pdf)
 
 
 
